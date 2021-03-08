@@ -1,0 +1,1 @@
+{"devices": [{"Device Name ": "Michael's AP", "Device Type": "MX65", "Device MAC": "e0:55:3d:17:d4:23", "Device Serial": "Q2QN-9J8L-SLPD"}, {"Device Name ": "Testing-Devnet", "Device Type": "MR53", "Device MAC": "88:15:44:60:21:10", "Device Serial": "Q2MD-BHHS-5FDL"}, {"Device Type": "MS220-8P", "Device MAC": "88:15:44:df:f3:af", "Device Serial": "Q2HP-F5K5-R88R"}]}
